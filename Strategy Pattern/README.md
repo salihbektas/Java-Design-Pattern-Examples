@@ -15,7 +15,7 @@ The program works with a text-based interface. First, it asks the user for the n
 * The order of the variables must be the same in each equation
 * Even if the coefficient of a variable is zero, it should be written in its order in the equation (look at last footage)
 
-## Running footage
+## Running Footage
 ![Footage1](assets/running-footage-1.png)
 ![Footage2](assets/running-footage-2.png)
 ![Footage3](assets/running-footage-3.png)
