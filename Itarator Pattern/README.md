@@ -1,5 +1,5 @@
 # Iterator Pattern
-In the scenario designed for this pattern, a 2-dimensional integer array comes from a satellite. For data analysis, an iterator is required to spiral counterclockwise through the data.
+In the scenario designed for this pattern, a 2-dimensional integer array comes from a satellite. For data analysis, an iterator is required to spiral counterclockwise through the data. The iterator should start from the upper left corner.
 
 Example of data from satellite:
 <pre>
